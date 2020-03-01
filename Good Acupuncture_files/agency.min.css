@@ -136,7 +136,7 @@ img::-moz-selection {
 header.masthead {
     text-align: center;
     color: #fff;
-    background-image: url(../img/header-bg2.jpg);
+    background-image: url(./header-bg2.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -701,7 +701,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 /* start contact */
 #contact
   {
-    background: #404040 url(../img/contact.jpg) no-repeat;
+    background: #404040 url(./contact.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     color: #FFFFFF;
