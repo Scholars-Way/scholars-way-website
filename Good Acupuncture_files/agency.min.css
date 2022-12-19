@@ -145,9 +145,13 @@ header.masthead {
     background-position: center center;
     background-size: cover
 }
+.masthead-mask {
+    background-color: black;
+    opacity: 0.5;
+}
 header.masthead .intro-text {
     padding-top: 150px;
-    padding-bottom: 100px
+    padding-bottom: 100px;
 }
 header.masthead .intro-text .intro-lead-in {
     font-size: 22px;
